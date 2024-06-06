@@ -1,0 +1,11 @@
+data/
+checkpoints/
+*.nemo
+experiments/
+output/
+unused/
+config.yaml
+experiments/
+nemo_experiments/
+__pycache__
+path
