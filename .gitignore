@@ -9,3 +9,4 @@ experiments/
 nemo_experiments/
 __pycache__
 path
+finetune_*/
